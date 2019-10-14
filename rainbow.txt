@@ -1,9 +1,11 @@
 Colors main
 
 Violet 
-indigo
-blue
+Indigo
+Blue
 Green
 Yellow
 Orange
 Red
+
+Also called VIBGYOR
